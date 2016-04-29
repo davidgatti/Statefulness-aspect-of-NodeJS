@@ -3,12 +3,12 @@ const http = require('http');
 const hostname = '127.0.0.1';
 const port = 3000;
 
-const array = []; // Our array that will live in RAM untill the server restarts
+const array = []; // Our array that will live in RAM until the server restarts
 
 const server = http.createServer((req, res) => {
 
-  array.push(""); // appendign a new entry in to our array
-  const arraySize = array.length; // countign how many items do we have in the array
+  array.push(""); // appending a new entry in to our array
+  const arraySize = array.length; // counting how many items do we have in the array
 
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
