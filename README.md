@@ -1,5 +1,4 @@
 # The Statefulness Aspect of NodeJS
-## An explanation of what it really means to have a stateful environment.
 
 Ask NodeJS developers why they choose this environment, and people typically will tell you the following:
 
