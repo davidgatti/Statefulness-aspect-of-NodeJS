@@ -149,6 +149,10 @@ My hope with this article is that I’ll make you consider this cool aspect of N
 
 I would love to have a list of all the Web Server back-end solutions that are actually stateful. A list like this for sure would help others discover other languages with this feature.
 
+Other languages
+
+- **Python**. Thank you to [Dmitry Sadovnychyi](https://github.com/sadovnychyi) for the contribution. 
+
 # My other projects
 
 - [IoT Raw Sockets](https://github.com/davidgatti/IoT-Raw-Sockets-Examples): learn about sockets with Particle and NodeJS
