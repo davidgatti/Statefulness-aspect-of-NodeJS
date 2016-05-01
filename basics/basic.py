@@ -8,8 +8,10 @@ ARRAY = []  # Our array that will live in RAM until the server restarts
 
 class HttpHandler(BaseHTTPServer.BaseHTTPRequestHandler):
   def do_GET(self):
+
     ARRAY.append("")  # appending a new entry in to our array
-    array_size = len(ARRAY)
+
+    array_size = len(ARRAY)  # counting how many items do we have in the array
     self.send_response(200)
     self.send_header('Content-type', 'text/plain')
     self.end_headers()
