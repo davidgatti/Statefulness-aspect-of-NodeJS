@@ -153,10 +153,25 @@ Other languages
 
 - **Python**. Thank you to [Dmitry Sadovnychyi](https://github.com/sadovnychyi) for the contribution. 
 
-# My other projects
+# Other
 
-- [IoT Raw Sockets](https://github.com/davidgatti/IoT-Raw-Sockets-Examples): learn about sockets with Particle and NodeJS
-- [Simpe.li](https://simpe.li): which is a simple API for generating PDFs out of beautiful templates.
-- [IoT Water Flow Meter](https://www.hackster.io/davidgatti/iot-water-flow-meter-4595ff?ref=user&ref_id=6416&offset=0): Measure the water consumption in your house with a Particle and water flow sensors.
-- [IoT Garage Opener](https://www.hackster.io/davidgatti/garage-opener-591175?ref=user&ref_id=6416&offset=1): A non destructive basic garage opener
-- [dgCam for Android](https://github.com/davidgatti/dgCam): Custom camera for Android created for testing, playing and learning.
+If you've enjoyed this article/project, please consider giving it a 🌟. Also check out my [GitHub account] (https://github.com/davidgatti), where I have other articles and apps that you might find interesting.
+
+## Where to follow
+
+You can follow me on social media 🐙😇, at the following locations:
+
+- [GitHub](https://github.com/davidgatti)
+- [Twitter](https://twitter.com/dawidgatti)
+- [Instagram](https://www.instagram.com/gattidavid/)
+
+## More about me
+
+I don’t only live on GitHub, I try to do many things not to get bored 🙃. To learn more about me, you can visit the following links:
+
+- [Podcasts](http://david.gatti.pl/podcasts)
+- [Articles](http://david.gatti.pl/articles)
+- [Technical Articles](http://david.gatti.pl/technical_articles)
+- [Software Projects](http://david.gatti.pl/software_projects)
+- [Hardware Projects](http://david.gatti.pl/hardware_projects)
+
